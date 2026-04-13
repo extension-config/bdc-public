@@ -1,7 +1,7 @@
 [
     {
       "ADO": "https://dev.azure.com/PalsgaardGlobalIT/D365FO",
-      "menuItemField": "Custom.Menuitemname",
+      "menuItemField": "Custom.Menuitemname2",
       "defaultCompareState": null,
       "defaultAreaId": null,
       "D365FOLinks": [
