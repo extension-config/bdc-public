@@ -1,0 +1,28 @@
+[
+    {
+      "ADO": "https://dev.azure.com/PalsgaardGlobalIT/D365FO",
+      "menuItemField": "Custom.Menuitemname",
+      "defaultCompareState": null,
+      "defaultAreaId": null,
+      "D365FOLinks": [
+        {
+          "D365FO_URL": "https://d365prod.operations.dynamics.com",
+          "D365Name": "Production"
+        },
+        {
+          "D365FO_URL": "https://palsgaard-uat.sandbox.operations.eu.dynamics.com",
+          "D365Name": "UAT"
+        },
+        {
+          "D365FO_URL": "https://palsgaard-migrationf6f5996c7dbbe792aos.axcloud.dynamics.com",
+          "D365Name": "Migration"
+        },
+        {
+          "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com",
+          "D365Name": "Test 12"
+        }
+      ],
+      "StateFilter_In": [],
+      "StateFilter_NotIn": ["Closed"]
+    }
+  ]
