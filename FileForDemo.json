@@ -18,6 +18,10 @@
       {
         "D365FO_URL": "https://palsgaard-test15.sandbox.operations.eu.dynamics.com/",
         "D365Name": "Prod"
+      },
+      {
+        "D365FO_URL": "https://palsgaard-test16.sandbox.operations.eu.dynamics.com/",
+        "D365Name": "Test16"
       }
     ],
     "FOMenuDetection": {
@@ -25,6 +29,22 @@
       "MenuTreeWIT": "MenuTree",
       "MenuPathField": "Custom.MenuPath",
       "MenuRootId": "2233"
+    }
+  },
+  {
+    "ADO": "https://dev.azure.com/BinderupPro/ComponentDoc",
+    "menuItemField": "Custom.Menuitemname",
+    "D365FOLinks": [
+      {
+        "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com/",
+        "D365Name": "Test12"
+      }
+    ],
+    "FOMenuDetection": {
+      "MenuWIT": "Menu",
+      "MenuTreeWIT": null,
+      "MenuPathField": null,
+      "MenuRootId": "112233"
     }
   }
 ]
