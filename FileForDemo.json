@@ -6,22 +6,6 @@
       {
         "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com/",
         "D365Name": "DevEnv"
-      },
-      {
-        "D365FO_URL": "https://palsgaard-test13.sandbox.operations.eu.dynamics.com/",
-        "D365Name": "TestEnv"
-      },
-      {
-        "D365FO_URL": "https://palsgaard-test14.sandbox.operations.eu.dynamics.com/",
-        "D365Name": "UAT"
-      },
-      {
-        "D365FO_URL": "https://palsgaard-test15.sandbox.operations.eu.dynamics.com/",
-        "D365Name": "Prod"
-      },
-      {
-        "D365FO_URL": "https://palsgaard-test16.sandbox.operations.eu.dynamics.com/",
-        "D365Name": "Test16"
       }
     ],
     "FOMenuDetection": {
@@ -32,12 +16,12 @@
     }
   },
   {
-    "ADO": "https://dev.azure.com/BinderupPro/ComponentDoc",
+    "ADO": "https://https://dev.azure.com/BinderupProDec25/MS_DEC25",
     "menuItemField": "Custom.Menuitemname",
     "D365FOLinks": [
       {
-        "D365FO_URL": "https://palsgaard-test17.sandbox.operations.eu.dynamics.com/",
-        "D365Name": "Test12"
+        "D365FO_URL": "https://palsgaard-uat.sandbox.operations.eu.dynamics.com/",
+        "D365Name": "UAT"
       }
     ],
     "FOMenuDetection": {
