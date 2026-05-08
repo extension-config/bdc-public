@@ -16,7 +16,7 @@
     }
   },
   {
-    "ADO": "https://https://dev.azure.com/BinderupProDec25/MS_DEC25",
+    "ADO": "https://dev.azure.com/BinderupProDec25/MS_DEC25",
     "menuItemField": "Custom.Menuitemname",
     "D365FOLinks": [
       {
