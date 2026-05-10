@@ -5,7 +5,7 @@
       "D365FOLinks": [
         {
           "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com/",
-          "D365Name": "DevEnv"
+          "D365Name": "Test12-PA"
         }
       ],
       "FOMenuDetection": {
@@ -21,7 +21,7 @@
       "D365FOLinks": [
         {
           "D365FO_URL": "https://palsgaard-uat.sandbox.operations.eu.dynamics.com/",
-          "D365Name": "UAT"
+          "D365Name": "UAT-Dec25"
         }
       ],
       "FOMenuDetection": {
