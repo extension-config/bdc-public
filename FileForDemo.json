@@ -1,34 +1,18 @@
 [
-  {
-    "ADO": "https://dev.azure.com/PalsgaardGlobalIT/D365FO",
-    "menuItemField": "Custom.Menuitemname",
-    "D365FOLinks": [
-      {
-        "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com/",
-        "D365Name": "DevEnv"
+    {
+        "ADO": "https://dev.azure.com/PalsgaardGlobalIT/D365FO",
+        "menuItemField": "Custom.Menuitemname",
+        "D365FOLinks": [
+          {
+            "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com/",
+            "D365Name": "DevEnv"
+          }
+        ],
+        "FOMenuDetection": {
+          "MenuWIT": "Menu",
+          "MenuTreeWIT": "MenuTree",
+          "MenuPathField": "Custom.MenuPath",
+          "MenuRootId": "2233"
+        }
       }
-    ],
-    "FOMenuDetection": {
-      "MenuWIT": "Menu",
-      "MenuTreeWIT": "MenuTree",
-      "MenuPathField": "Custom.MenuPath",
-      "MenuRootId": "2233"
-    }
-  },
-  {
-    "ADO": "https://dev.azure.com/BinderupProDec25/MS_DEC25",
-    "menuItemField": "Custom.Menuitemname",
-    "D365FOLinks": [
-      {
-        "D365FO_URL": "https://palsgaard-uat.sandbox.operations.eu.dynamics.com/",
-        "D365Name": "UAT"
-      }
-    ],
-    "FOMenuDetection": {
-      "MenuWIT": "Menu",
-      "MenuTreeWIT": null,
-      "MenuPathField": null,
-      "MenuRootId": "112233"
-    }
-  }
-]
+  ]
