@@ -5,7 +5,7 @@
         "D365FOLinks": [
           {
             "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com/",
-            "D365Name": "DevEnv"
+            "D365Name": "Test12"
           }
         ],
         "FOMenuDetection": {
