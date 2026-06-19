@@ -18,7 +18,7 @@
     ]
   },
   {
-    "ADO": "https://dev.azure.com/BinderupProMar26/MS_MAR26_v2_par",
+    "ADO": "https://dev.azure.com/BinderupProMar26/MS_MAR26_v2",
     "menuItemField": "Custom.Menuitemname",
     "D365FOLinks": [
       {
