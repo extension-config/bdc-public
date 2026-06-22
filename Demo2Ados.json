@@ -49,9 +49,9 @@
     ],
     "FOMenuDetection": {
       "MenuWIT": "Configuration",
-      "MenuTreeWIT": "ConfigTree",
+      "MenuTreeWIT": "Configuration",
       "MenuPathField": "Custom.Menupath",
-      "MenuRootId": "44538"
+      "MenuRootId": "44537"
     }
   }
 ]
