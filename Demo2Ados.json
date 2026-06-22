@@ -36,14 +36,19 @@
   {
     "ADO": "https://dev.azure.com/BinderupProMar26/MS_MAR26_v2",
     "menuItemField": "Custom.Menuitemname",
-    "D365FOLinks": []
+    "D365FOLinks": [
+      {
+        "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com",
+        "D365Name": "Test 12"
+      }      
+    ]
   },
   {
     "ADO": "https://dev.azure.com/BinderupProMar26/MenuCreation",
     "menuItemField": "Custom.Menuitemname",
     "D365FOLinks": [
       {
-        "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com",
+        "D365FO_URL": "https://palsgaard-test12-Menu.sandbox.operations.eu.dynamics.com",
         "D365Name": "Test 12 - menu"
       }
     ],
