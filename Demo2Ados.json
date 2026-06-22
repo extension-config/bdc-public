@@ -22,7 +22,7 @@
     "menuItemField": "Custom.Menuitemname",
     "D365FOLinks": [
       {
-        "D365FO_URL": "https://palsgaard-test12_NA.sandbox.operations.eu.dynamics.com",
+        "D365FO_URL": "https://palsgaard-test12-NA.sandbox.operations.eu.dynamics.com",
         "D365Name": "Test12_NA"
       }
     ],
