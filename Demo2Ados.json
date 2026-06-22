@@ -18,7 +18,7 @@
     ]
   },
   {
-    "ADO": "https://dev.azure.com/BinderupProMar26/MS_MAR26_v2",
+    "ADO": "https://dev.azure.com/BinderupProMar26/MS_MAR26_v2_par",
     "menuItemField": "Custom.Menuitemname",
     "D365FOLinks": [
       {
@@ -31,6 +31,27 @@
       "MenuTreeWIT": "Configuration",
       "MenuPathField": "Custom.Menupath",
       "MenuRootId": "35940"
+    }
+  },
+  {
+    "ADO": "https://dev.azure.com/BinderupProMar26/MS_MAR26_v2",
+    "menuItemField": "Custom.Menuitemname",
+    "D365FOLinks": []
+  },
+  {
+    "ADO": "https://dev.azure.com/BinderupProMar26/MenuCreation",
+    "menuItemField": "Custom.Menuitemname",
+    "D365FOLinks": [
+      {
+        "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com",
+        "D365Name": "Test 12 - menu"
+      }
+    ],
+    "FOMenuDetection": {
+      "MenuWIT": "Configuration",
+      "MenuTreeWIT": "ConfigTree",
+      "MenuPathField": "Custom.Menupath",
+      "MenuRootId": "44538"
     }
   }
 ]
