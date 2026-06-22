@@ -41,7 +41,13 @@
         "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com",
         "D365Name": "Test 12"
       }      
-    ]
+    ],
+    "FOMenuDetection": {
+      "MenuWIT": "Configuration",
+      "MenuTreeWIT": "Configuration",
+      "MenuPathField": "Custom.Menupath",
+      "MenuRootId": "21430"
+    }
   },
   {
     "ADO": "https://dev.azure.com/BinderupProMar26/MenuCreation",
