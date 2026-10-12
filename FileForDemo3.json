@@ -1,0 +1,34 @@
+[
+    {
+      "ADO": "https://dev.azure.com/PalsgaardGlobalIT/D365FO",
+      "menuItemField": "Custom.Menuitemname",
+      "D365FOLinks": [
+        {
+          "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com/",
+          "D365Name": "Test12-PA"
+        }
+      ],
+      "FOMenuDetection": {
+        "MenuWIT": "Menu",
+        "MenuTreeWIT": "Menu",
+        "MenuPathField": "Custom.MenuPath",
+        "MenuRootId": "517"
+      }
+    },
+    {
+      "ADO": "https://dev.azure.com/BinderupProAug26/MSAug26",
+      "menuItemField": "MSBPC.menuitemname",
+      "D365FOLinks": [
+        {
+          "D365FO_URL": "https://pi-bug-repro-2d067a3fc296e21f7devaos.axcloud.dynamics.com/",
+          "D365Name": "Contoso (PI)"
+        }
+      ],
+      "FOMenuDetection": {
+        "MenuWIT": "Configuration",
+        "MenuTreeWIT": null,
+        "MenuPathField": "MSBPC.menupath",
+        "MenuRootId": "112233"
+      }
+    }
+  ]
