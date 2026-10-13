@@ -33,6 +33,9 @@
         "MenuRootId": "112233",
         "MenuDelimiter": " > ",
         "MenuStorageFormat": "Flat"
-      }
+      },
+      "StateFilter_In": [],
+      "StateFilter_NotIn": ["Closed"]
+
     }
   ]
