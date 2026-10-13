@@ -12,7 +12,7 @@
         "MenuWIT": "Menu",
         "MenuTreeWIT": "Menu",
         "MenuPathField": "Custom.MenuPath",
-        "MenuRootId": "517"
+        "MenuRootId": "517",
         "MenuDelimiter": " > ",
         "MenuStorageFormat": "Tree"
       }
