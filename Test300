@@ -1,0 +1,88 @@
+[
+    {
+      "ADO": "https://dev.azure.com/PalsgaardGlobalIT/D365FO",
+      "menuItemField": "Custom.Menuitemname",
+      "D365FOLinks": [
+        {
+          "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com/",
+          "D365Name": "Test12-PA"
+        }
+      ],
+      "FOMenuDetection": {
+        "MenuWIT": "Menu",
+        "MenuTreeWIT": "Menu",
+        "MenuPathField": "Custom.MenuPath",
+        "MenuRootId": "517",
+        "MenuDelimiter": " > ",
+        "MenuStorageFormat": "Tree"
+      }
+    },
+    {
+      "ADO": "https://dev.azure.com/BinderupProAug26/MSAug26",
+      "menuItemField": "MSBPC.menuitemname",
+      "D365FOLinks": [
+        {
+          "D365FO_URL": "https://used_below_pi-bug-repro-2d067a3fc296e21f7devaos.axcloud.dynamics.com/",
+          "D365Name": "Contoso (PI)"
+        }
+      ],
+      "FOMenuDetection": {
+        "MenuWIT": "Configuration",
+        "MenuTreeWIT": null,
+        "MenuPathField": "MSBPC.menupath",
+        "MenuRootId": "112233",
+        "MenuDelimiter": " > ",
+        "MenuStorageFormat": "Flat"
+      },
+      "StateFilter_In": [],
+      "StateFilter_NotIn": ["Closed"],
+      "MenuItemFormats": {
+        "version": 1,
+        "readTemplates": [
+          "{name}",
+          "$mi={name}",
+          "&mi=Action:{name}",
+          "&mi=Display:{name}",
+          "&mi=Output:{name}",
+          "&mi={name}",
+          "mi={name}"
+        ],
+        "writeTemplate": "{name}",
+        "defaultType": "Display"
+      }
+    },
+    {
+      "ADO": "https://dev.azure.com/BinderupProAug26/MenuTest/",
+      "menuItemField": "MSBPC.menuitemname",
+      "D365FOLinks": [
+        {
+          "D365FO_URL": "https://pi-bug-repro-2d067a3fc296e21f7devaos.axcloud.dynamics.com/",
+          "D365Name": "Contoso (PI)"
+        }
+      ],
+      "FOMenuDetection": {
+        "MenuWIT": "Configuration",
+        "MenuTreeWIT": null,
+        "MenuPathField": "MSBPC.menupath",
+        "MenuRootId": "",
+        "MenuDelimiter": " > ",
+        "MenuStorageFormat": "Tree"
+      },
+      "StateFilter_In": [],
+      "StateFilter_NotIn": ["Closed"],
+      "MenuItemFormats": {
+        "version": 1,
+        "readTemplates": [
+          "{name}",
+          "$mi={name}",
+          "&mi=Action:{name}",
+          "&mi=Display:{name}",
+          "&mi=Output:{name}",
+          "&mi={name}",
+          "mi={name}"
+        ],
+        "writeTemplate": "{name}",
+        "defaultType": "Display"
+      }
+    }
+  ]
