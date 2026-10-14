@@ -35,7 +35,7 @@
         "MenuStorageFormat": "Flat"
       },
       "StateFilter_In": [],
-      "StateFilter_NotIn": ["Closed"]
+      "StateFilter_NotIn": ["Closed"],
       "MenuItemFormats": {
         "version": 1,
         "readTemplates": [
