@@ -7,21 +7,21 @@
         "D365Name": "Test12-PA"
       },
       {
-        "D365FO_URL": "https://palsgaard-uat.sandbox.operations.eu.dynamics.com/",
+        "D365FO_URL": "https://palsgaard-uat.sandbox.operations.eu.dynamics.com/?cmp=PADK&mi=VendTableListPage",
         "D365Name": "UAT-PA"
       }
     ],
     "FOMenuDetection": {
       "MenuDelimiter": " > ",
-      "MenuPathField": "Custom.MenuPath",
+      "MenuPathField": "Custom.Fullmenu",
       "MenuRootId": "517",
       "MenuStorageFormat": "Tree",
       "MenuTreeWIT": "Menu",
       "MenuWIT": "Menu"
     },
-    "menuItemField": "Custom.Menuitemname",
     "StateFilter_In": [],
-    "StateFilter_NotIn": []
+    "StateFilter_NotIn": [],
+    "menuItemField": "Custom.Menuitemname"
   },
   {
     "ADO": "https://dev.azure.com/BinderupProAug26/MSAug26",
@@ -76,7 +76,7 @@
       "MenuWIT": "Configuration"
     },
     "MenuItemFormats": {
-      "version": 1,
+      "defaultType": "Display",
       "readTemplates": [
         "{name}",
         "$mi={name}",
@@ -86,8 +86,8 @@
         "&mi={name}",
         "mi={name}"
       ],
-      "writeTemplate": "{name}",
-      "defaultType": "Display"
+      "version": 1,
+      "writeTemplate": "{name}"
     },
     "StateFilter_In": [],
     "StateFilter_NotIn": [
