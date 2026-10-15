@@ -28,7 +28,7 @@
     "FOMenuDetection": {
       "MenuDelimiter": " > ",
       "MenuPathField": "MSBPC.menupath",
-      "MenuRootId": "112233",
+      "MenuRootId": "14974",
       "MenuStorageFormat": "Flat",
       "MenuTreeWIT": null,
       "MenuWIT": "Configuration"
