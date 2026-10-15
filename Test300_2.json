@@ -9,6 +9,10 @@
       {
         "D365FO_URL": "https://palsgaard-uat.sandbox.operations.eu.dynamics.com/?cmp=PADK&mi=VendTableListPage",
         "D365Name": "UAT-PA"
+      },
+      {
+        "D365FO_URL": "https://palsgaard-migrationf6f5996c7dbbe792aos.axcloud.dynamics.com/",
+        "D365Name": "MIG-PA"
       }
     ],
     "FOMenuDetection": {
@@ -40,7 +44,7 @@
       "MenuWIT": "Configuration"
     },
     "MenuItemFormats": {
-      "version": 1,
+      "defaultType": "Display",
       "readTemplates": [
         "{name}",
         "$mi={name}",
@@ -50,8 +54,8 @@
         "&mi={name}",
         "mi={name}"
       ],
-      "writeTemplate": "{name}",
-      "defaultType": "Display"
+      "version": 1,
+      "writeTemplate": "{name}"
     },
     "StateFilter_In": [],
     "StateFilter_NotIn": [
