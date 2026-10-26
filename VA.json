@@ -106,7 +106,7 @@
   },
   {
     "ADO": "https://dev.azure.com/Genua-Group/VA%20-%20D365FO%20Core%20and%20Roll%20Out",
-    "menuItemField": "Custom.Menuitemname",
+    "menuItemField": "Custom.Menuitemname°",
     "FOMenuDetection": {
       "MenuWIT": null,
       "MenuTreeWIT": null,
