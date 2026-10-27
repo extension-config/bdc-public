@@ -50,10 +50,5 @@
       "Closed"
     ],
     "menuItemField": "MSBPC.menuitemname"
-  },
-  {
-    "ADO": "https://dev.azure.com/BinderupPro/ComponentDoc",
-    "D365FOLinks": [],
-    "menuItemField": "Custom.Menuitemname°"
   }
 ]
