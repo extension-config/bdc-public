@@ -1,0 +1,59 @@
+[
+  {
+    "ADO": "https://dev.azure.com/BinderupProOct26/Oct26",
+    "D365FOLinks": [
+      {
+        "D365FO_URL": "https://pi-bug-repro-2d067a3fc296e21f7devaos.axcloud.dynamics.com/",
+        "D365Name": "Contoso (PI)"
+      },
+      {
+        "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com/",
+        "D365Name": "Test12-PA"
+      },
+      {
+        "D365FO_URL": "https://palsgaard-uat.sandbox.operations.eu.dynamics.com/?cmp=PADK&mi=VendTableListPage",
+        "D365Name": "UAT-PA"
+      },
+      {
+        "D365FO_URL": "https://palsgaard-migrationf6f5996c7dbbe792aos.axcloud.dynamics.com/",
+        "D365Name": "MIG-PA"
+      },
+      {
+        "D365FO_URL": "https://genua-uat.sandbox.operations.eu.dynamics.com/?cmp=vadk&mi=defaultdashboard",
+        "D365Name": "Genua UAT"
+      }
+    ],
+    "FOMenuDetection": {
+      "MenuDelimiter": " > ",
+      "MenuPathField": "MSBPC.menupath",
+      "MenuRootId": "",
+      "MenuStorageFormat": "Flat",
+      "MenuTreeWIT": null,
+      "MenuWIT": "Configuration"
+    },
+    "MenuItemFormats": {
+      "version": 1,
+      "readTemplates": [
+        "{name}",
+        "$mi={name}",
+        "&mi=Action:{name}",
+        "&mi=Display:{name}",
+        "&mi=Output:{name}",
+        "&mi={name}",
+        "mi={name}"
+      ],
+      "writeTemplate": "{name}",
+      "defaultType": "Display"
+    },
+    "StateFilter_In": [],
+    "StateFilter_NotIn": [
+      "Closed"
+    ],
+    "menuItemField": "MSBPC.menuitemname"
+  },
+  {
+    "ADO": "https://dev.azure.com/BinderupPro/ComponentDoc",
+    "D365FOLinks": [],
+    "menuItemField": "Custom.Menuitemname°"
+  }
+]
