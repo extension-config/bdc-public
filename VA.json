@@ -6,9 +6,9 @@
       "MenuWIT": null,
       "MenuTreeWIT": null,
       "MenuPathField": null,
-      "MenuRootId": null,
-      "MenuDelimiter": " / ",
-      "MenuStorageFormat": null
+      "MenuRootId": 4737,
+      "MenuDelimiter": " > ",
+      "MenuStorageFormat": "Tree"
     },
     "D365FOLinks": [
       {
@@ -17,6 +17,8 @@
       }
     ],
     "StateFilter_In": [],
-    "StateFilter_NotIn": []
+    "StateFilter_NotIn": [
+      "Rejected"
+    ]
   }
 ]
