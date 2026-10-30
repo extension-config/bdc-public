@@ -3,9 +3,9 @@
     "ADO": "https://dev.azure.com/Genua-Group/VA%20-%20D365FO%20Core%20and%20Roll%20Out",
     "menuItemField": "Custom.076c1a7b-381d-43d8-abae-26096931e6c2",
     "FOMenuDetection": {
-      "MenuWIT": null,
-      "MenuTreeWIT": null,
-      "MenuPathField": null,
+      "MenuWIT": "Configuration°",
+      "MenuTreeWIT": "Configuration Lx°",
+      "MenuPathField": "Custom.4276f132-7b87-4647-a4c1-76d1898bbad0",
       "MenuRootId": 4737,
       "MenuDelimiter": " > ",
       "MenuStorageFormat": "Tree"
