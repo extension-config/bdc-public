@@ -1,0 +1,29 @@
+[
+  {
+    "ADO": "https://dev.azure.com/BinderupProTest/BDC%20Tree",
+    "menuItemField": "Custom.Menuitemname",
+    "FOMenuDetection": {
+      "MenuWIT": "MenuItem°",
+      "MenuTreeWIT": "MenuTree",
+      "MenuPathField": "Custom.MenuPath",
+      "MenuRootId": 56869,
+      "MenuDelimiter": " > ",
+      "MenuStorageFormat": "Tree",
+      "MenuHierarchy": {
+        "GroupWIT": "Configuration L1",
+        "ModuleWIT": "Configuration L2",
+        "FolderLayout": "FlatUnderModule"
+      }
+    },
+    "D365FOLinks": [
+      {
+        "D365FO_URL": "https://genua-uat.sandbox.operations.eu.dynamics.com/?cmp=vadk&mi=defaultdashboard",
+        "D365Name": "Genua UAT"
+      }
+    ],
+    "StateFilter_In": [],
+    "StateFilter_NotIn": [
+      "Rejected"
+    ]
+  }
+]
