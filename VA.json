@@ -4,11 +4,16 @@
     "menuItemField": "Custom.076c1a7b-381d-43d8-abae-26096931e6c2",
     "FOMenuDetection": {
       "MenuWIT": "Configuration°",
-      "MenuTreeWIT": "Configuration Lx°",
+      "MenuTreeWIT": "Configuration L3",
       "MenuPathField": "Custom.4276f132-7b87-4647-a4c1-76d1898bbad0",
       "MenuRootId": 4737,
       "MenuDelimiter": " > ",
-      "MenuStorageFormat": "Tree"
+      "MenuStorageFormat": "Tree",
+      "MenuHierarchy": {
+        "GroupWIT": "Configuration L1",
+        "ModuleWIT": "Configuration L2",
+        "FolderLayout": "FlatUnderModule"
+      }
     },
     "D365FOLinks": [
       {
