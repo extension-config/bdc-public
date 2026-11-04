@@ -3,7 +3,7 @@
     "ADO": "https://dev.azure.com/BinderupProTest/BDC%20Tree",
     "menuItemField": "Custom.Menuitemname",
     "FOMenuDetection": {
-      "MenuWIT": "MenuItem°",
+      "MenuWIT": "MenuItem",
       "MenuTreeWIT": "MenuTree",
       "MenuPathField": "Custom.MenuPath",
       "MenuRootId": 56869,
