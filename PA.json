@@ -1,0 +1,34 @@
+[
+  {
+    "ADO": "https://dev.azure.com/PalsgaardGlobalIT/D365FO",
+    "D365FOLinks": [
+      {
+        "D365FO_URL": "https://d365prod.operations.dynamics.com",
+        "D365Name": "Production"
+      },
+      {
+        "D365FO_URL": "https://palsgaard-test12.sandbox.operations.eu.dynamics.com/",
+        "D365Name": "Test12"
+      },
+      {
+        "D365FO_URL": "https://palsgaard-uat.sandbox.operations.eu.dynamics.com/?cmp=PADK&mi=VendTableListPage",
+        "D365Name": "UAT"
+      },
+      {
+        "D365FO_URL": "https://palsgaard-migrationf6f5996c7dbbe792aos.axcloud.dynamics.com/",
+        "D365Name": "MIG"
+      }
+    ],
+    "FOMenuDetection": {
+      "MenuDelimiter": " > ",
+      "MenuPathField": "Custom.Fullmenu",
+      "MenuRootId": "517",
+      "MenuStorageFormat": "Tree",
+      "MenuTreeWIT": "Menu",
+      "MenuWIT": "Menu"
+    },
+    "StateFilter_In": [],
+    "StateFilter_NotIn": [],
+    "menuItemField": "Custom.Menuitemname"
+  }
+]
