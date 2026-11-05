@@ -1,6 +1,7 @@
 [
   {
     "ADO": "https://dev.azure.com/PalsgaardGlobalIT/D365FO",
+    "menuItemField": "Custom.Menuitemname",
     "D365FOLinks": [
       {
         "D365FO_URL": "https://d365prod.operations.dynamics.com",
@@ -28,7 +29,6 @@
       "MenuWIT": "Menu"
     },
     "StateFilter_In": [],
-    "StateFilter_NotIn": ["Closed"],
-    "menuItemField": "Custom.Menuitemname"
+    "StateFilter_NotIn": ["Closed"]
   }
 ]
