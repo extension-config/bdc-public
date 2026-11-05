@@ -28,7 +28,7 @@
       "MenuWIT": "Menu"
     },
     "StateFilter_In": [],
-    "StateFilter_NotIn": [],
+    "StateFilter_NotIn": [Closed],
     "menuItemField": "Custom.Menuitemname"
   }
 ]
