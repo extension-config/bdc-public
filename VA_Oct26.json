@@ -1,0 +1,31 @@
+[
+  {
+    "ADO": "https://dev.azure.com/BinderupProOct26/Oct26",
+    "menuItemField": "MSBPC.menuitemname",
+    "FOMenuDetection": {
+      "MenuWIT": "Configuration",
+      "MenuTreeWIT": "",
+      "MenuPathField": "MSBPC.menupath",
+      "MenuRootId": "4737",
+      "MenuDelimiter": " > ",
+      "MenuStorageFormat": "Flat",
+      "MenuHierarchy": {
+        "GroupWIT": "",
+        "ModuleWIT": "",
+        "FolderLayout": ""
+      }
+    },
+    "D365FOLinks": [
+      {
+        "D365FO_URL": "https://genua-uat.sandbox.operations.eu.dynamics.com",
+        "D365Name": "Genua UAT"
+      },
+      {
+        "D365FO_URL": "https://genua-test.sandbox.operations.eu.dynamics.com",
+        "D365Name": "Genua Test"
+      }
+    ],
+    "StateFilter_In": [],
+    "StateFilter_NotIn": []
+  }
+]
